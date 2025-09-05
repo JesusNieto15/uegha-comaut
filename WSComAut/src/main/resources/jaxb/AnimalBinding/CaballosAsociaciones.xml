@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ActualizarDatosEquidos>
+  <ActualizarDatosEquido>
+	<Animal>
+      <CodigoUELN>724015210364982</CodigoUELN>
+      <CodigoEspecie>48</CodigoEspecie>
+      <CodigoRaza>5101</CodigoRaza>
+      <CodigoFiabilidad>16</CodigoFiabilidad>
+	  <CodigoSexo>01</CodigoSexo>
+	  <Castrado>N</Castrado>
+	  <CodigoCapa>05</CodigoCapa>
+	  <CodigoLugarNacimiento>111</CodigoLugarNacimiento>
+	  <ExplotacionNacimiento>ES330370001961</ExplotacionNacimiento>
+	  <FechaNacimiento>2021-08-17</FechaNacimiento>
+	  <CodigoTipoIdentificacion>03</CodigoTipoIdentificacion>
+	  <CodigoSistemaLectura>01</CodigoSistemaLectura>
+	  <IdElectronica>10010000724030000720477</IdElectronica>
+	  <IdAlternativo> </IdAlternativo>
+	  <FechaIdentificacion>2022-01-22</FechaIdentificacion>
+	  <NIFTitular>53506194Y</NIFTitular>
+	  <NombreTitular>Juan Salas San Miguel</NombreTitular>
+	  <DireccionTitular>C/ Covadonga Nº5 3ºA</DireccionTitular>
+	  <InicioTitular>2021-08-17</InicioTitular>
+	  <CodigoProvinciaTitular>27</CodigoProvinciaTitular>
+	  <CodigoMunicipioTitular>001</CodigoMunicipioTitular>
+	  <CodigoPostal>27001</CodigoPostal>
+	  <CodigoOrientacion>01</CodigoOrientacion>
+	  <NombreNacimiento>JONAY</NombreNacimiento>
+	  <NombreComercial> </NombreComercial>
+	  <CodigoAptitud>01</CodigoAptitud>
+	  <InicioSuspension> </InicioSuspension>
+	  <Duplicado>N</Duplicado>
+	  <FechaMuerte> </FechaMuerte>
+	  <ExplotacionMuerte> </ExplotacionMuerte>
+	  <CodigoTipoMuerte> </CodigoTipoMuerte>
+	  <ComunidadAutonomaGrabadora>11</ComunidadAutonomaGrabadora>
+	 </Animal>
+  </ActualizarDatosEquido>
+  <ActualizarDatosEquido>
+	<Animal>
+      <CodigoUELN>724022000007722</CodigoUELN>
+      <CodigoEspecie>48</CodigoEspecie>
+      <CodigoRaza>5111</CodigoRaza>
+      <CodigoFiabilidad>16</CodigoFiabilidad>
+	  <CodigoSexo>01</CodigoSexo>
+	  <Castrado>N</Castrado>
+	  <CodigoCapa>05</CodigoCapa>
+	  <CodigoLugarNacimiento>111</CodigoLugarNacimiento>
+	  <ExplotacionNacimiento>ES330120001480</ExplotacionNacimiento>
+	  <FechaNacimiento>2021-04-05</FechaNacimiento>
+	  <CodigoTipoIdentificacion>03</CodigoTipoIdentificacion>
+	  <CodigoSistemaLectura>01</CodigoSistemaLectura>
+	  <IdElectronica>10010000724022000007722</IdElectronica>
+	  <IdAlternativo> </IdAlternativo>
+	  <FechaIdentificacion>2022-01-10</FechaIdentificacion>
+	  <NIFTitular>11389839D</NIFTitular>
+	  <NombreTitular>Almudena Díaz Fernández</NombreTitular>
+	  <DireccionTitular>C/Tena Nº8 1ºB</DireccionTitular>
+	  <InicioTitular>2021-04-05</InicioTitular>
+	  <CodigoProvinciaTitular>32</CodigoProvinciaTitular>
+	  <CodigoMunicipioTitular>010</CodigoMunicipioTitular>
+	  <CodigoPostal>32010</CodigoPostal>
+	  <CodigoOrientacion>01</CodigoOrientacion>
+	  <NombreNacimiento>IDANA</NombreNacimiento>
+	  <NombreComercial>IDANA</NombreComercial>
+	  <CodigoAptitud>01</CodigoAptitud>
+	  <InicioSuspension> </InicioSuspension>
+	  <Duplicado>N</Duplicado>
+	  <FechaMuerte> </FechaMuerte>
+	  <ExplotacionMuerte> </ExplotacionMuerte>
+	  <CodigoTipoMuerte> </CodigoTipoMuerte>
+	  <ComunidadAutonomaGrabadora>11</ComunidadAutonomaGrabadora>
+	</Animal>
+  </ActualizarDatosEquido>
+</ActualizarDatosEquidos>

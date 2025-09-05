@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://ws142.juntadeandalucia.es/agriculturaypesca/siggan/services/sigganwsequino?wsdl" uri="wsdl/ws142.juntadeandalucia.es/agriculturaypesca/siggan/services/sigganwsequino.wsdl"/>
+    <system systemId="https://servicio.mapa.gob.es/ws_equidos/PIDA_WS.asmx?WSDL" uri="wsdl/servicio.mapa.gob.es/ws_equidos/PIDA_WS.asmx.wsdl"/>
+    <system systemId="file:/home/jesus/wsmapa/PIDA_WS.asmx.wsdl" uri="wsdl/PIDA_WS.asmx.wsdl"/>
+</catalog>
